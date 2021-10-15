@@ -3,5 +3,5 @@ pandas
 numpy
 plotly
 wordcloud
-PIL
+pillow
 matplotlib
